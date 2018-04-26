@@ -1,0 +1,48 @@
+.mat-expansion-panel-header{
+    background-color: rgb(24, 74, 125);
+   
+}
+.mat-expansion-panel-header-title{
+    color: white
+}
+.mat-expansion-panel{
+    background-color: #183866;
+}
+mat-expansion-panel /deep/ .mat-expansion-indicator{
+  display:none
+}
+
+mat-icon /deep/ g{
+    fill: #fff !important;
+}
+
+/* a{
+    color: #fff !important;
+} */
+a:link {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* mouse over link */
+/* a:hover {
+    color: hotpink;
+} */
+
+/* selected link */
+a:active {
+    color: blue;
+    text-decoration: none;
+}
+
+
+a:focus {
+    color:blue;
+    text-decoration: none;
+}
