@@ -37,12 +37,12 @@ a:visited {
 
 /* selected link */
 a:active {
-    color: blue;
+    color: #447fee;
     text-decoration: none;
 }
 
 
 a:focus {
-    color:blue;
+    color:#447fee;
     text-decoration: none;
 }

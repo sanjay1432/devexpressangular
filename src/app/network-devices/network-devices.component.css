@@ -1,0 +1,11 @@
+.mat-tab-header-pagination-controls-enabled .mat-tab-header-pagination{
+   display: none;
+}
+
+mat-tab-group /deep/.mat-tab-header-pagination{
+    display: none;
+ }
+
+ #sub /deep/ mat-ink-bar{
+    background-color:transparent
+ }
